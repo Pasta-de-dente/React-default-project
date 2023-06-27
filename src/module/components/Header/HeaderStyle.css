@@ -1,0 +1,8 @@
+.nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.nav h1 {
+  margin-left: 50px;
+}
